@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">CLASSiϕ</string>
+    <string name="text_Timetable">Timetable</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Registration No.</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="hint_email.id">Email</string>
+    <string name="hint_DOB">Date Of Birth</string>
+    <string name="hint_YOAdmission">Year Of \nAdmission</string>
+    <string name="hint_SEX">SEX</string>
+    <string name="hint_Semester.no">Semester</string>
+    <string name="hint_Course_Name">Course</string>
+    <string name="hint_Course_Code">Course Code</string>
+    <string name="hint_Slot">Slot</string>
+    <string name="hint_Subject_Type">Type</string>
+    <string name="hint_Room_No">Room No.</string>
+    <string name="hint_Faculty">Faculty</string>
+
+    <string name="hint_Lab">Lab</string>
+    <string name="hint_Theory">Theory</string>
+    <string name="hint_Extra">Extra</string>
+
+    <string name="text_save">Save</string>
+    <string name="text_Add">Save Course</string>
+    <string name="text_Update">Update</string>
+    <string name="text_Delete">Delete</string>
+    <string name="text_login">Login</string>
+    <string name="text_register">Register</string>
+
+    <string name="error_message_name">Enter Full Name</string>
+    <string name="error_message_email">Enter Valid Registration No.(e.g. 16BCE1234)</string>
+    <string name="error_message_age">Enter Age</string>
+    <string name="error_message_password">Enter Password</string>
+
+    <string name="success_message">Registration Successful</string>
+
+    <string name="text_forgot_password">Forgot Password?</string>
+    <string name="text_GetPassword">Get Password</string>
+    <string name="hint_Security">Security Hint</string>
+    <string name="text_not_member">No account yet? Create one</string>
+    <string name="text_already_member">Already a member? Login</string>
+    <string name="text_remember_password">Remember password? Login</string>
+    <string name="error_message_security">Enter security hint</string>
+    <string name="error_email_exists">Registration No. Already Exists</string>
+    <string name="error_email_notexist">Registration No. Doesn\'t Exist</string>
+    <string name="error_password_match">Password Does Not Matches</string>
+    <string name="error_valid_email_password">Incorrect Registration No. or Password</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_hello">Hello,</string>
+    <string name="text_title">Welcome To VIT University</string>
+    <string name="title_activity_info_activity">Info_activity</string>
+    <string name="title_activity__time_table">activity_TimeTable</string>
+
+    <string name="spinner_title">Spinner Title</string>
+    
+</resources>
